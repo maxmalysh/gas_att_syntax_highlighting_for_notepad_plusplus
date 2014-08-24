@@ -1,4 +1,4 @@
-GAS_Notepadpp
+notepadpp_gas_asm
 =======================================
 
-GAS (AT&amp;T) syntax highliting for Notepad++
+GAS (AT&amp;T) syntax highlighting for Notepad++
