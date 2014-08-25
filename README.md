@@ -4,7 +4,7 @@ This is a Notepad++ highlighting file for the syntax used by GNU Assembler (GAS)
  
 ## How to install
 
-1. Download .xml file 
+1. Download a .xml file 
 2. Open Notepad++. 
 3. Select "Language" at the top, then "Define your language..." and click "Import". Open the .xml file you've downloaded.
 4. Restart editor. 
